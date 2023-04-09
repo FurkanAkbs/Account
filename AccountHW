@@ -1,5 +1,5 @@
 package com.afurkan;
-/*//Ödevim şu : Bir banka hesabı olarak, double tipinde balance isimli bir alana sahip Account ile onun istemcisi olan AccountClient sınıflarını
+/*//Ödevim şu : (Encapsulation) Bir banka hesabı olarak, double tipinde balance isimli bir alana sahip Account ile onun istemcisi olan AccountClient sınıflarını
 oluşturun. Account sınıfına gerekli kurucu ve diğer metotları koyun.
 AccountClient nesnesinin Account nesneleri üzerinde şu işlemleri yapmasını sağlayın:
 a. Para çekmek
